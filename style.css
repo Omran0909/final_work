@@ -1,0 +1,50 @@
+.bg_slider_1 {
+    background-image: url(https://i.pinimg.com/originals/51/82/ac/5182ac536727d576c78a9320ac62de30.jpg);
+    background-repeat: no-repeat;
+    height: 50vh;
+    background-size: 100%;
+}
+.bg_slider_2 {
+    background-image: url(https://i.pinimg.com/originals/af/8e/d3/af8ed3265ed9b78d34f2340b5bb42b71.jpg);
+    background-repeat: no-repeat;
+    height: 50vh;
+    background-size: 100%;
+}
+.bg_slider_3 {
+    background-image: url(https://images2.alphacoders.com/238/thumb-1920-238870.jpg);
+    background-repeat: no-repeat;
+    height: 50vh;
+    background-size: 100%;
+}
+
+.service {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.portrait {
+    align-items: center;
+    border-radius: 50%;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+}
+
+.footer {
+    height: 150px;
+    justify-content: center;
+    align-items: center;
+}
+
+.buttons {
+    text-align: center;
+}
+
+.copyrights {
+    text-align: center;
+}
